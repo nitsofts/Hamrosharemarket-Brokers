@@ -1,0 +1,601 @@
+[
+    {
+        "no":"1",
+        "name":"Kumari Securities Pvt. Limited",
+        "phone1":"01-4418036",
+        "phone2":"01-4423689",
+        "website":"https://kumarisecurities.com/",
+        "tms":"https://tms01.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":"Pokhara"
+    },
+
+    {
+        "no":"3",
+        "name":"Arun Securities Pvt. Limited",
+        "phone1":"9851153343",
+        "phone2":"01-4113750",
+        "website":"https://www.arunsecurities.com/",
+        "tms":"https://tms03.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"4",
+        "name":"Stock Broker Opal Securities Investment Pvt. Limited",
+        "phone1":"01-4420313",
+        "phone2":"01-4420314",
+        "website":"https://stockbrokeropalsecurities.com/",
+        "tms":"https://tms03.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"5",
+        "name":"Market Securities Exchange Company Pvt. Limited",
+        "phone1":"01-4248973",
+        "phone2":"01-4249558",
+        "website":"http://marketsecurities.com.np/",
+        "tms":"https://tms05.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"6",
+        "name":"Agrawal Securities Pvt. Limited",
+        "phone1":"01-5970106",
+        "phone2":"",
+        "website":"http://www.agrawalsecurities.com.np/",
+        "tms":"https://tms06.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"7",
+        "name":"J.F. Securities Company Pvt. Limited",
+        "phone1":"01-4256099",
+        "phone2":"01-4248202",
+        "website":"https://jfsecurities.com/",
+        "tms":"https://tms07.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"8",
+        "name":"Ashutosh Brokerage & Securities Pvt. Limited",
+        "phone1":"01-4490232",
+        "phone2":"01-4490233",
+        "website":"https://www.ashutoshsecurities.com/",
+        "tms":"https://tms08.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"10",
+        "name":"Pragyan Securities Pvt. Limited",
+        "phone1":"01-4413392",
+        "phone2":"",
+        "website":"https://pragyansecurities10.com.np/",
+        "tms":"https://tms10.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"11",
+        "name":"Malla & Malla Stock Broking Company Pvt. Limited",
+        "phone1":"01-4432088",
+        "phone2":"01-4414008",
+        "website":"https://mallastock.com/",
+        "tms":"https://tms11.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"13",
+        "name":"Thrive Brokerage House Pvt. Limited",
+        "phone1":"01-4419051",
+        "phone2":"01-4416018",
+        "website":"https://thrivebrokerage.com/",
+        "tms":"https://tms13.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"14",
+        "name":"Nepal Stock House Pvt. Limited",
+        "phone1":"01-4429621",
+        "phone2":"01-4429631",
+        "website":"https://stockhouse.com.np/",
+        "tms":"https://tms14.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"16",
+        "name":"Primo Securities Pvt. Limited",
+        "phone1":"01-4168175",
+        "phone2":"01-4168164",
+        "website":"https://primosecurities.com.np/",
+        "tms":"https://tms16.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"17",
+        "name":"ABC Securities Pvt. Limited",
+        "phone1":"01-4230787",
+        "phone2":"01-4266507",
+        "website":"https://abcsecurities.com.np/index.html",
+        "tms":"https://tms17.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"18",
+        "name":"Sagarmatha Securities Pvt. Limited",
+        "phone1":"01-4439315",
+        "phone2":"01-4433316",
+        "website":"https://sagarmathasecurities.com/",
+        "tms":"https://tms18.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"19",
+        "name":"Nepal Investment & Securities Trading Pvt. Limited",
+        "phone1":"01-4495450",
+        "phone2":"01-4480072",
+        "website":"https://nist19.com/",
+        "tms":"https://tms19.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"20",
+        "name":"Sipla Securities Pvt. Limited",
+        "phone1":"01-4255782",
+        "phone2":"01-4255078",
+        "website":"https://siplasecurities.com/",
+        "tms":"https://tms20.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"21",
+        "name":"Midas Stock Broking Company Pvt. Limited",
+        "phone1":"01-4240089",
+        "phone2":"01-4240115",
+        "website":"http://midasstock.com.np/home.aspx#",
+        "tms":"https://tms21.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"22",
+        "name":"Siprabi Securities Pvt. Limited",
+        "phone1":"01-5530701",
+        "phone2":"",
+        "website":"https://siprabi.com/",
+        "tms":"https://tms22.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Lalitpur",
+        "address2":""
+    },
+
+    {
+        "no":"25",
+        "name":"Sweta Securities Pvt. Limited",
+        "phone1":"01-4223914",
+        "phone2":"01-4223778",
+        "website":"https://www.swetasecurities.com/",
+        "tms":"https://tms25.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"26",
+        "name":"Asian Securities Pvt. Limited",
+        "phone1":"01-4524351",
+        "phone2":"01-4524485",
+        "website":"http://aspl26.com/",
+        "tms":"https://tms26.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"28",
+        "name":"Shree Krishna Securities Limited",
+        "phone1":"01-4441226",
+        "phone2":"01-4441225",
+        "website":"https://sksl.com.np/",
+        "tms":"https://tms28.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"29",
+        "name":"Trishul Securities And Investment Limited",
+        "phone1":"01-4440709",
+        "phone2":"+977-9841311077",
+        "website":"",
+        "tms":"https://tms29.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"32",
+        "name":"Premier Securites Company Limited",
+        "phone1":"01-5970732",
+        "phone2":"01-4532832",
+        "website":"https://premiersecurities.com.np/",
+        "tms":"https://tms32.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"33",
+        "name":"Dakshinkali Investment Securities Pvt.Limited",
+        "phone1":"01-4168640",
+        "phone2":"01-4168641",
+        "website":"http://displtd33.com/",
+        "tms":"https://tms33.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"34",
+        "name":"Vision Securities Pvt.Limited",
+        "phone1":"01-4770425",
+        "phone2":"+977-9840028263",
+        "website":"https://sharebroker34.com/",
+        "tms":"https://tms34.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"35",
+        "name":"Kohinoor Investment and Securities Pvt.Ltd",
+        "phone1":"01-4442857",
+        "phone2":"01-4442858",
+        "website":"https://kohinoorinvestment.com/",
+        "tms":"https://tms35.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"36",
+        "name":"Secured Securities Limited",
+        "phone1":"01-4262861",
+        "phone2":"01-4224523",
+        "website":"https://ssl.com.np/",
+        "tms":"https://tms36.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"37",
+        "name":"Swarnalaxmi Securities Pvt.Limited",
+        "phone1":"01-4168219",
+        "phone2":"01-4168291",
+        "website":"https://swarnalaxmisecurities.com.np/",
+        "tms":"https://tms37.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"38",
+        "name":"Dipshika Dhitopatra Karobar Co. Pvt.Limited",
+        "phone1":"01-4102532",
+        "phone2":"01-4102534",
+        "website":"https://ddkc.com.np/",
+        "tms":"https://tms38.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"39",
+        "name":"Sumeru Securities Pvt.Limited",
+        "phone1":"01-5970439",
+        "phone2":"",
+        "website":"https://www.sumerusecurities.com/",
+        "tms":"https://tms39.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"40",
+        "name":"Creative Securities Pvt.Limited",
+        "phone1":"01-4419572",
+        "phone2":"01-4419582",
+        "website":"http://creativesec.com.np/",
+        "tms":"https://tms40.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"41",
+        "name":"Linch Stock Market Limited",
+        "phone1":"01-4469367",
+        "phone2":"01-4469068",
+        "website":"http://linch.com.np/",
+        "tms":"https://tms41.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"42",
+        "name":"Sani Securities Company Limited",
+        "phone1":"01-5970602",
+        "phone2":"",
+        "website":"https://sanisecurities.com.np/",
+        "tms":"https://tms42.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"43",
+        "name":"South Asian Bulls Pvt.Limited",
+        "phone1":"01-4284785",
+        "phone2":"01-4284786",
+        "website":"https://southasianbulls.com/",
+        "tms":"https://tms43.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"44",
+        "name":"Dynamic Money Managers Securities Pvt.Ltd",
+        "phone1":"01-4414522",
+        "phone2":"01-4413421",
+        "website":"https://www.dynamic44.com/",
+        "tms":"https://tms44.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"45",
+        "name":"Imperial Securities Co .Pvt.Limited",
+        "phone1":"01-5970145",
+        "phone2":"+977-9848531335",
+        "website":"https://imperialsecurities.com.np/",
+        "tms":"https://tms45.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"46",
+        "name":"Kalika Securities Pvt.Limited",
+        "phone1":"01-5705564",
+        "phone2":"01-5705565",
+        "website":"https://kalikasecurities.com/",
+        "tms":"https://tms46.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"47",
+        "name":"Neev Securities Pvt.Ltd",
+        "phone1":"01-4168601",
+        "phone2":"01-4168572",
+        "website":"http://neevsecurities.com.np/",
+        "tms":"https://tms47.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"48",
+        "name":"Trishakti Securities Public Limited",
+        "phone1":"01-4012645",
+        "phone2":"01-4012647",
+        "website":"https://trishakti.com.np/",
+        "tms":"https://tms48.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"49",
+        "name":"Online Securities Pvt.Ltd",
+        "phone1":"01-5970049",
+        "phone2":"01-4168298",
+        "website":"https://onlinesecurities.com.np/",
+        "tms":"https://tms49.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"50",
+        "name":"Crystal Kanchenjunga Securities Pvt.Ltd",
+        "phone1":"01-4011176",
+        "phone2":"01-4421607",
+        "website":"http://crystalsecurities.com/",
+        "tms":"https://tms50.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"51",
+        "name":"Oxford Securities Pvt.Ltd",
+        "phone1":"01-5378113",
+        "phone2":"01-5378555",
+        "website":"",
+        "tms":"https://tms51.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"52",
+        "name":"Sundhara Securities Limited",
+        "phone1":"01-4212215",
+        "phone2":"01-4260174",
+        "website":"http://sundharasecurities.com.np/",
+        "tms":"https://tms52.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"53",
+        "name":"Investment Management Nepal Pvt. Ltd.",
+        "phone1":"01-5356589",
+        "phone2":"01-5356590",
+        "website":"https://imnpltd.com.np/",
+        "tms":"https://tms53.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"54",
+        "name":"Sewa Securities Pvt. Ltd.",
+        "phone1":"01-5356644",
+        "phone2":"01-5356642",
+        "website":"https://sewasecurities.com.np/",
+        "tms":"https://tms54.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"55",
+        "name":"Bhrikuti Stock Broking Co. Pvt. Ltd.",
+        "phone1":"01-4224648",
+        "phone2":"01-4233213",
+        "website":"https://www.bhrikutistock.com/",
+        "tms":"https://tms55.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"56",
+        "name":"Sri Hari Securities Pvt.Ltd",
+        "phone1":"01-4437465",
+        "phone2":"01-4437562",
+        "website":"http://sriharisecurities.com.np/",
+        "tms":"https://tms56.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"57",
+        "name":"Arya Tara Investment And Securities Pvt. Ltd.",
+        "phone1":"01-5706297",
+        "phone2":"01-5705596",
+        "website":"https://aryatarasecurities.com/",
+        "tms":"https://tms57.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"58",
+        "name":"Naasa Securities Co. Ltd.",
+        "phone1":"01-4440384",
+        "phone2":"01-4440385",
+        "website":"https://naasasecurities.com.np/",
+        "tms":"https://tms58.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    },
+
+    {
+        "no":"59",
+        "name":"Deevyaa Securities & Stock House Pvt. Ltd",
+        "phone1":"01-4421488",
+        "phone2":"01-4420987",
+        "website":"http://deevyaasecurities.com.np/",
+        "tms":"https://tms59.nepsetms.com.np/login",
+        "onlineApplication":"true",
+        "address1":"Kathmandu",
+        "address2":""
+    }
+]
