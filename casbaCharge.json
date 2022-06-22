@@ -1,4 +1,8 @@
-[{ 
+{
+    "cAsbaCharge":
+
+        [
+    { 
         "id":"0",
         "bank":"Nabil Bank Limited",
         "symbol":"NABIL",
@@ -244,3 +248,5 @@
     }
 
 ]
+
+}
