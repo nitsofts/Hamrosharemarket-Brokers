@@ -22,7 +22,8 @@
         "bank":"Mega Bank Limited",
         "symbol":"MEGA",
         "charge":"Free",
-        "sector":"commercial"
+        "sector":"commercial",
+        "logo":"https://chatbot.megabank.com.np/assets/icons/mega_bank_icon.png"
     },
 
     { 
