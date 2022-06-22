@@ -49,7 +49,8 @@
         "bank":"Agricultural Development Bank Limited",
         "symbol":"ADBL",
         "charge":"Rs. 10",
-        "sector":"commercial"
+        "sector":"commercial",
+        "logo":"https://kisan.adbl.gov.np/Content/homepage/images/adbl%20.png"
     },
 
     { 
