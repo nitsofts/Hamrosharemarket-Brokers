@@ -13,7 +13,8 @@
         "bank":"NIC Asia Bank Limited",
         "symbol":"NICA",
         "charge":"Free",
-        "sector":"commercial"
+        "sector":"commercial",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NIC_Asia_Bank_Logo.svg/800px-NIC_Asia_Bank_Logo.svg.png"
     },
 
     { 
