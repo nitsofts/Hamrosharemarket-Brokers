@@ -7,6 +7,7 @@
         "website":"https://kumarisecurities.com/",
         "tms":"https://tms01.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms01.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":"Pokhara"
     },
@@ -19,6 +20,7 @@
         "website":"https://www.arunsecurities.com/",
         "tms":"https://tms03.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms03.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -31,6 +33,7 @@
         "website":"https://stockbrokeropalsecurities.com/",
         "tms":"https://tms03.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms04.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -43,6 +46,7 @@
         "website":"http://marketsecurities.com.np/",
         "tms":"https://tms05.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms05.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -55,6 +59,7 @@
         "website":"http://www.agrawalsecurities.com.np/",
         "tms":"https://tms06.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms06.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -67,6 +72,7 @@
         "website":"https://jfsecurities.com/",
         "tms":"https://tms07.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms07.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -79,6 +85,7 @@
         "website":"https://www.ashutoshsecurities.com/",
         "tms":"https://tms08.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms08.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -91,6 +98,7 @@
         "website":"https://pragyansecurities10.com.np/",
         "tms":"https://tms10.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms10.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -103,6 +111,7 @@
         "website":"https://mallastock.com/",
         "tms":"https://tms11.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms11.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -115,6 +124,7 @@
         "website":"https://thrivebrokerage.com/",
         "tms":"https://tms13.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms13.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -127,6 +137,7 @@
         "website":"https://stockhouse.com.np/",
         "tms":"https://tms14.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms14.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -139,6 +150,7 @@
         "website":"https://primosecurities.com.np/",
         "tms":"https://tms16.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms16.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -151,6 +163,7 @@
         "website":"https://abcsecurities.com.np/index.html",
         "tms":"https://tms17.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms17.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -163,6 +176,7 @@
         "website":"https://sagarmathasecurities.com/",
         "tms":"https://tms18.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms18.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -175,6 +189,7 @@
         "website":"https://nist19.com/",
         "tms":"https://tms19.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms19.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -187,6 +202,7 @@
         "website":"https://siplasecurities.com/",
         "tms":"https://tms20.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms20.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -199,6 +215,7 @@
         "website":"http://midasstock.com.np/home.aspx#",
         "tms":"https://tms21.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms21.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -211,6 +228,7 @@
         "website":"https://siprabi.com/",
         "tms":"https://tms22.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms22.nepsetms.com.np/client-registration",
         "address1":"Lalitpur",
         "address2":""
     },
@@ -223,6 +241,7 @@
         "website":"https://www.swetasecurities.com/",
         "tms":"https://tms25.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms25.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -235,6 +254,7 @@
         "website":"http://aspl26.com/",
         "tms":"https://tms26.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms26.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -247,6 +267,7 @@
         "website":"https://sksl.com.np/",
         "tms":"https://tms28.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms28.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -259,6 +280,7 @@
         "website":"",
         "tms":"https://tms29.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms29.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -271,6 +293,7 @@
         "website":"https://premiersecurities.com.np/",
         "tms":"https://tms32.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms32.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -283,6 +306,7 @@
         "website":"http://displtd33.com/",
         "tms":"https://tms33.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms33.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -295,6 +319,7 @@
         "website":"https://sharebroker34.com/",
         "tms":"https://tms34.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms34.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -307,6 +332,7 @@
         "website":"https://kohinoorinvestment.com/",
         "tms":"https://tms35.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms35.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -319,6 +345,7 @@
         "website":"https://ssl.com.np/",
         "tms":"https://tms36.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms36.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -331,6 +358,7 @@
         "website":"https://swarnalaxmisecurities.com.np/",
         "tms":"https://tms37.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms37.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -343,6 +371,7 @@
         "website":"https://ddkc.com.np/",
         "tms":"https://tms38.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms38.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -355,6 +384,7 @@
         "website":"https://www.sumerusecurities.com/",
         "tms":"https://tms39.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms39.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -367,6 +397,7 @@
         "website":"http://creativesec.com.np/",
         "tms":"https://tms40.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms40.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -379,6 +410,7 @@
         "website":"http://linch.com.np/",
         "tms":"https://tms41.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms41.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -391,6 +423,7 @@
         "website":"https://sanisecurities.com.np/",
         "tms":"https://tms42.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms42.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -403,6 +436,7 @@
         "website":"https://southasianbulls.com/",
         "tms":"https://tms43.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms43.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -415,6 +449,7 @@
         "website":"https://www.dynamic44.com/",
         "tms":"https://tms44.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms44.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -427,6 +462,7 @@
         "website":"https://imperialsecurities.com.np/",
         "tms":"https://tms45.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms45.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -439,6 +475,7 @@
         "website":"https://kalikasecurities.com/",
         "tms":"https://tms46.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms46.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -451,6 +488,7 @@
         "website":"http://neevsecurities.com.np/",
         "tms":"https://tms47.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms47.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -463,6 +501,7 @@
         "website":"https://trishakti.com.np/",
         "tms":"https://tms48.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms48.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -475,6 +514,7 @@
         "website":"https://onlinesecurities.com.np/",
         "tms":"https://tms49.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms49.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -487,6 +527,7 @@
         "website":"http://crystalsecurities.com/",
         "tms":"https://tms50.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms50.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -499,6 +540,7 @@
         "website":"",
         "tms":"https://tms51.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms51.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -511,6 +553,7 @@
         "website":"http://sundharasecurities.com.np/",
         "tms":"https://tms52.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms52.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -523,6 +566,7 @@
         "website":"https://imnpltd.com.np/",
         "tms":"https://tms53.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms53.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -535,6 +579,7 @@
         "website":"https://sewasecurities.com.np/",
         "tms":"https://tms54.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms54.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -547,6 +592,7 @@
         "website":"https://www.bhrikutistock.com/",
         "tms":"https://tms55.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms55.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -559,6 +605,7 @@
         "website":"http://sriharisecurities.com.np/",
         "tms":"https://tms56.nepsetms.com.np/login",
         "onlineApplication":"false",
+        "onlineRegistration":"https://tms56.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -571,6 +618,7 @@
         "website":"https://aryatarasecurities.com/",
         "tms":"https://tms57.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms57.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -583,6 +631,7 @@
         "website":"https://naasasecurities.com.np/",
         "tms":"https://tms58.nepsetms.com.np/login",
         "onlineApplication":"false",
+        "onlineRegistration":"https://tms58.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     },
@@ -595,6 +644,7 @@
         "website":"http://deevyaasecurities.com.np/",
         "tms":"https://tms59.nepsetms.com.np/login",
         "onlineApplication":"true",
+        "onlineRegistration":"https://tms59.nepsetms.com.np/client-registration",
         "address1":"Kathmandu",
         "address2":""
     }
