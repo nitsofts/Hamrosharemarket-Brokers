@@ -5,7 +5,8 @@
         "phone1":"01-4418036",
         "phone2":"01-4423689",
         "website":"https://kumarisecurities.com/",
-        "tms":"https://tms01.nepsetms.com.np/",
+        "tms":"https://tms01.nepsetms.com.np/login",
+        "adress":"Dillibazaar, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms01.nepsetms.com.np/client-registration"
     },
@@ -17,6 +18,7 @@
         "phone2":"01-4113750",
         "website":"https://www.arunsecurities.com/",
         "tms":"https://tms03.nepsetms.com.np/login",
+        "adress":"Putalisadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms03.nepsetms.com.np/client-registration"
     },
@@ -28,6 +30,7 @@
         "phone2":"01-4420314",
         "website":"https://stockbrokeropalsecurities.com/",
         "tms":"https://tms03.nepsetms.com.np/login",
+        "adress":"Uttardhoka, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms04.nepsetms.com.np/client-registration"
     },
@@ -39,6 +42,7 @@
         "phone2":"01-4249558",
         "website":"http://marketsecurities.com.np/",
         "tms":"https://tms05.nepsetms.com.np/login",
+        "adress":"Kichha Pokhari, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms05.nepsetms.com.np/client-registration"
     },
@@ -50,6 +54,7 @@
         "phone2":"",
         "website":"http://www.agrawalsecurities.com.np/",
         "tms":"https://tms06.nepsetms.com.np/login",
+        "adress":"Dillibazar, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms06.nepsetms.com.np/client-registration"
     },
@@ -61,6 +66,7 @@
         "phone2":"01-4248202",
         "website":"https://jfsecurities.com/",
         "tms":"https://tms07.nepsetms.com.np/login",
+        "adress":"Dharmapath, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms07.nepsetms.com.np/client-registration"
     },
@@ -72,6 +78,7 @@
         "phone2":"01-4490233",
         "website":"https://www.ashutoshsecurities.com/",
         "tms":"https://tms08.nepsetms.com.np/login",
+        "adress":"Battisputali, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms08.nepsetms.com.np/client-registration"
     },
@@ -83,6 +90,7 @@
         "phone2":"",
         "website":"https://pragyansecurities10.com.np/",
         "tms":"https://tms10.nepsetms.com.np/login",
+        "adress":"Kamaladi, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms10.nepsetms.com.np/client-registration"
     },
@@ -94,6 +102,7 @@
         "phone2":"01-4414008",
         "website":"https://mallastock.com/",
         "tms":"https://tms11.nepsetms.com.np/login",
+        "adress":"Hattisar, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms11.nepsetms.com.np/client-registration"
     },
@@ -105,6 +114,7 @@
         "phone2":"01-4416018",
         "website":"https://thrivebrokerage.com/",
         "tms":"https://tms13.nepsetms.com.np/login",
+        "adress":"Naxal,Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms13.nepsetms.com.np/client-registration"
     },
@@ -116,6 +126,7 @@
         "phone2":"01-4429631",
         "website":"https://stockhouse.com.np/",
         "tms":"https://tms14.nepsetms.com.np/login",
+        "adress":"Kalikasthan,Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms14.nepsetms.com.np/client-registration"
     },
@@ -127,6 +138,7 @@
         "phone2":"01-4168164",
         "website":"https://primosecurities.com.np/",
         "tms":"https://tms16.nepsetms.com.np/login",
+        "adress":"Putalisadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms16.nepsetms.com.np/client-registration"
     },
@@ -138,6 +150,7 @@
         "phone2":"01-4266507",
         "website":"https://abcsecurities.com.np/index.html",
         "tms":"https://tms17.nepsetms.com.np/login",
+        "adress":"Indrachowk, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms17.nepsetms.com.np/client-registration"
     },
@@ -149,6 +162,7 @@
         "phone2":"01-4433316",
         "website":"https://sagarmathasecurities.com/",
         "tms":"https://tms18.nepsetms.com.np/login",
+        "adress":"Dillibazar, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms18.nepsetms.com.np/client-registration"
     },
@@ -160,6 +174,7 @@
         "phone2":"01-4480072",
         "website":"https://nist19.com/",
         "tms":"https://tms19.nepsetms.com.np/login",
+        "adress":"Old Baneshwor, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms19.nepsetms.com.np/client-registration"
     },
@@ -171,6 +186,7 @@
         "phone2":"01-4255078",
         "website":"https://siplasecurities.com/",
         "tms":"https://tms20.nepsetms.com.np/login",
+        "adress":"Pashupati Sadak,Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms20.nepsetms.com.np/client-registration"
     },
@@ -182,6 +198,7 @@
         "phone2":"01-4240115",
         "website":"http://midasstock.com.np/home.aspx#",
         "tms":"https://tms21.nepsetms.com.np/login",
+        "adress":"Putalisadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms21.nepsetms.com.np/client-registration"
     },
@@ -193,6 +210,7 @@
         "phone2":"",
         "website":"https://siprabi.com/",
         "tms":"https://tms22.nepsetms.com.np/login",
+        "adress":"Pulchowk, Lalitpur",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms22.nepsetms.com.np/client-registration"
     },
@@ -204,6 +222,7 @@
         "phone2":"01-4223778",
         "website":"https://www.swetasecurities.com/",
         "tms":"https://tms25.nepsetms.com.np/login",
+        "adress":"Putalisadak,Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms25.nepsetms.com.np/client-registration"
     },
@@ -215,6 +234,7 @@
         "phone2":"01-4524485",
         "website":"http://aspl26.com/",
         "tms":"https://tms26.nepsetms.com.np/login",
+        "adress":"Putalisadak,Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms26.nepsetms.com.np/client-registration"
     },
@@ -226,6 +246,7 @@
         "phone2":"01-4441225",
         "website":"https://sksl.com.np/",
         "tms":"https://tms28.nepsetms.com.np/login",
+        "adress":"illibazar, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms28.nepsetms.com.np/client-registration"
     },
@@ -237,6 +258,7 @@
         "phone2":"+977-9841311077",
         "website":"",
         "tms":"https://tms29.nepsetms.com.np/login",
+        "adress":"Putalisadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms29.nepsetms.com.np/client-registration"
     },
@@ -248,6 +270,7 @@
         "phone2":"01-4532832",
         "website":"https://premiersecurities.com.np/",
         "tms":"https://tms32.nepsetms.com.np/login",
+        "adress":"Putalisadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms32.nepsetms.com.np/client-registration"
     },
@@ -259,6 +282,7 @@
         "phone2":"01-4168641",
         "website":"http://displtd33.com/",
         "tms":"https://tms33.nepsetms.com.np/login",
+        "adress":"Kamaladi, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms33.nepsetms.com.np/client-registration"
     },
@@ -270,6 +294,7 @@
         "phone2":"+977-9840028263",
         "website":"https://sharebroker34.com/",
         "tms":"https://tms34.nepsetms.com.np/login",
+        "adress":"Anamnagar, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms34.nepsetms.com.np/client-registration"
     },
@@ -281,6 +306,7 @@
         "phone2":"01-4442858",
         "website":"https://kohinoorinvestment.com/",
         "tms":"https://tms35.nepsetms.com.np/login",
+        "adress":"Hattisar Sadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms35.nepsetms.com.np/client-registration"
     },
@@ -292,6 +318,7 @@
         "phone2":"01-4224523",
         "website":"https://ssl.com.np/",
         "tms":"https://tms36.nepsetms.com.np/login",
+        "adress":"Pradarshani Marga, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms36.nepsetms.com.np/client-registration"
     },
@@ -303,6 +330,7 @@
         "phone2":"01-4168291",
         "website":"https://swarnalaxmisecurities.com.np/",
         "tms":"https://tms37.nepsetms.com.np/login",
+        "adress":"Putalisadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms37.nepsetms.com.np/client-registration"
     },
@@ -314,6 +342,7 @@
         "phone2":"01-4102534",
         "website":"https://ddkc.com.np/",
         "tms":"https://tms38.nepsetms.com.np/login",
+        "adress":"Anamnagar, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms38.nepsetms.com.np/client-registration"
     },
@@ -322,9 +351,10 @@
         "no":"39",
         "name":"Sumeru Securities Pvt.Limited",
         "phone1":"01-5970439",
-        "phone2":"",
+        "phone2":"Gyaneshwor, Kathmandu",
         "website":"https://www.sumerusecurities.com/",
         "tms":"https://tms39.nepsetms.com.np/login",
+        "adress":"",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms39.nepsetms.com.np/client-registration"
     },
@@ -336,6 +366,7 @@
         "phone2":"01-4419582",
         "website":"http://creativesec.com.np/",
         "tms":"https://tms40.nepsetms.com.np/login",
+        "adress":"Kamalpokhari, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms40.nepsetms.com.np/client-registration"
     },
@@ -347,6 +378,7 @@
         "phone2":"01-4469068",
         "website":"http://linch.com.np/",
         "tms":"https://tms41.nepsetms.com.np/login",
+        "adress":"New Baneshwor, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms41.nepsetms.com.np/client-registration"
     },
@@ -358,6 +390,7 @@
         "phone2":"",
         "website":"https://sanisecurities.com.np/",
         "tms":"https://tms42.nepsetms.com.np/login",
+        "adress":"Jamal, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms42.nepsetms.com.np/client-registration"
     },
@@ -369,6 +402,7 @@
         "phone2":"01-4284786",
         "website":"https://southasianbulls.com/",
         "tms":"https://tms43.nepsetms.com.np/login",
+        "adress":"Kuleshwor, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms43.nepsetms.com.np/client-registration"
     },
@@ -380,6 +414,7 @@
         "phone2":"01-4413421",
         "website":"https://www.dynamic44.com/",
         "tms":"https://tms44.nepsetms.com.np/login",
+        "adress":"Kamalpokhari, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms44.nepsetms.com.np/client-registration"
     },
@@ -391,6 +426,7 @@
         "phone2":"+977-9848531335",
         "website":"https://imperialsecurities.com.np/",
         "tms":"https://tms45.nepsetms.com.np/login",
+        "adress":"Anamnagar, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms45.nepsetms.com.np/client-registration"  
     },
@@ -402,6 +438,7 @@
         "phone2":"01-5705565",
         "website":"https://kalikasecurities.com/",
         "tms":"https://tms46.nepsetms.com.np/login",
+        "adress":"Anamnagar, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms46.nepsetms.com.np/client-registration"
     },
@@ -413,6 +450,7 @@
         "phone2":"01-4168572",
         "website":"http://neevsecurities.com.np/",
         "tms":"https://tms47.nepsetms.com.np/login",
+        "adress":"Putalisadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms47.nepsetms.com.np/client-registration"
     },
@@ -424,6 +462,7 @@
         "phone2":"01-4012647",
         "website":"https://trishakti.com.np/",
         "tms":"https://tms48.nepsetms.com.np/login",
+        "adress":"Putalisadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms48.nepsetms.com.np/client-registration"
     },
@@ -435,6 +474,7 @@
         "phone2":"01-4168298",
         "website":"https://onlinesecurities.com.np/",
         "tms":"https://tms49.nepsetms.com.np/login",
+        "adress":"Putalisadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms49.nepsetms.com.np/client-registration"
     },
@@ -446,6 +486,7 @@
         "phone2":"01-4421607",
         "website":"http://crystalsecurities.com/",
         "tms":"https://tms50.nepsetms.com.np/login",
+        "adress":"New Plaza, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms50.nepsetms.com.np/client-registration"
     },
@@ -455,8 +496,9 @@
         "name":"Oxford Securities Pvt.Ltd",
         "phone1":"01-5378113",
         "phone2":"01-5378555",
-        "website":"",
+        "website":"https://oxfordsecurities.com.np/oxford",
         "tms":"https://tms51.nepsetms.com.np/login",
+        "adress":"Kalimati, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms51.nepsetms.com.np/client-registration"
     },
@@ -468,6 +510,7 @@
         "phone2":"01-4260174",
         "website":"http://sundharasecurities.com.np/",
         "tms":"https://tms52.nepsetms.com.np/login",
+        "adress":"Sundhara, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms52.nepsetms.com.np/client-registration"
     },
@@ -479,6 +522,7 @@
         "phone2":"01-5356590",
         "website":"https://imnpltd.com.np/",
         "tms":"https://tms53.nepsetms.com.np/login",
+        "adress":"Tripureshwor, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms53.nepsetms.com.np/client-registration"
     },
@@ -490,6 +534,7 @@
         "phone2":"01-5356642",
         "website":"https://sewasecurities.com.np/",
         "tms":"https://tms54.nepsetms.com.np/login",
+        "adress":"Tripureshwor,Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms54.nepsetms.com.np/client-registration"
     },
@@ -501,6 +546,7 @@
         "phone2":"01-4233213",
         "website":"https://www.bhrikutistock.com/",
         "tms":"https://tms55.nepsetms.com.np/login",
+        "adress":"New Road, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms55.nepsetms.com.np/client-registration"
     },
@@ -512,6 +558,7 @@
         "phone2":"01-4437562",
         "website":"http://sriharisecurities.com.np/",
         "tms":"https://tms56.nepsetms.com.np/login",
+        "adress":"Kamaladi, Kathmandu",
         "onlineApplication":"false",
         "onlineRegistration":"https://tms56.nepsetms.com.np/client-registration"
     },
@@ -523,6 +570,7 @@
         "phone2":"01-5705596",
         "website":"https://aryatarasecurities.com/",
         "tms":"https://tms57.nepsetms.com.np/login",
+        "adress":"Anamnagar, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms57.nepsetms.com.np/client-registration"
     },
@@ -534,6 +582,7 @@
         "phone2":"01-4440385",
         "website":"https://naasasecurities.com.np/",
         "tms":"https://tms58.nepsetms.com.np/login",
+        "adress":"Naxal, Kathmandu",
         "onlineApplication":"false",
         "onlineRegistration":"https://tms58.nepsetms.com.np/client-registration"
     },
@@ -545,6 +594,7 @@
         "phone2":"01-4420987",
         "website":"http://deevyaasecurities.com.np/",
         "tms":"https://tms59.nepsetms.com.np/login",
+        "adress":"Putalisadak, Kathmandu",
         "onlineApplication":"true",
         "onlineRegistration":"https://tms59.nepsetms.com.np/client-registration"
     
