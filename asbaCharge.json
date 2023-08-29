@@ -23,7 +23,7 @@
         "symbol":"MEGA",
         "charge":"Rs. 5",
         "sector":"Commercial",
-        "logo":"https://chatbot.megabank.com.np/assets/icons/mega_bank_icon.png"
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD8YGM1BbJHjmkDMhmsPtBl7oj4NFF5kH4wQ&usqp=CAU"
     },
 
     { 
@@ -120,7 +120,7 @@
         "id":"13",
         "bank":"Siddhartha Bank Limited",
         "symbol":"SBL",
-        "charge":"Rs. 5",
+        "charge":"Free",
         "sector":"Commercial",
         "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVVO4SC0WRLuHlML-dBAw2r2bN9mNyWMd_2IhJdxycKV0fnxCptVPXKfs_SFMJRl7Back&usqp=CAU"
     },
@@ -165,7 +165,7 @@
         "id":"18",
         "bank":"NMB Bank Limited",
         "symbol":"NMB",
-        "charge":"Rs. 5",
+        "charge":"Free",
         "sector":"Commercial",
         "logo":"https://upload.wikimedia.org/wikipedia/commons/8/88/Nmb_logo.jpg"
     },
@@ -210,7 +210,7 @@
         "id":"23",
         "bank":"Century Commercial Bank Limited",
         "symbol":"CCBL",
-        "charge":"Rs. 25",
+        "charge":"Rs. 5",
         "sector":"Commercial",
         "logo":"https://www.collegenp.com/uploads/2018/11/Century-Commercial-Bank-Limited.jpg"
     },
@@ -219,7 +219,7 @@
         "id":"24",
         "bank":"Laxmi Bank Limited",
         "symbol":"LBL",
-        "charge":"Rs. 25",
+        "charge":"Rs. 5",
         "sector":"Commercial",
         "logo":"https://share.cdn.viber.com/pg_download?id=0-04-06-657480b2b1101e4bb82f2bdb8576f43b0531feadfef90748403f44c3631ad85b&filetype=jpg&type=icon"
     },
@@ -228,7 +228,7 @@
         "id":"25",
         "bank":"Nepal SBI Bank Limited",
         "symbol":"SBI",
-        "charge":"Rs. 25",
+        "charge":"Rs. 5",
         "sector":"Commercial",
         "logo":"https://www.collegenp.com/uploads/2018/12/Nepal-SBI-Bank-Limited.jpg"
     },
@@ -237,7 +237,7 @@
         "id":"26",
         "bank":"Standard Chartered Bank",
         "symbol":"SCB",
-        "charge":"Rs. 50",
+        "charge":"Rs. 5",
         "sector":"Commercial",
         "logo":"data:image/png;base64,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"
     },
